@@ -2,10 +2,10 @@
 #include "HTTPClient.h"
 
 
-const char* ssid = "Indonesia";
-const char* password = "sejahteramaju077";
-const char* serverName = "http://192.168.1.9/IoTlearn/wifi_status.php";
-const char* host = "192.168.1.9";
+const char* ssid = "ssid";
+const char* password = "password";
+const char* serverName = "your-server";
+const char* host = "your-host";
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
