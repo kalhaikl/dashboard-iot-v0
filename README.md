@@ -24,3 +24,5 @@ Data yang dikirim masih **dummy** (random) menggunakan `random()` di kode Arduin
 - **Software**:
   - Arduino IDE (dengan Board Manager untuk ESP32)
   - Server lokal/XAMPP atau hosting online dengan endpoint PHP
+## UI
+<img width="490" height="897" alt="Screenshot 2025-08-10 160857" src="https://github.com/user-attachments/assets/4b8e13aa-1616-4f9c-933d-02935dba25f1" />
