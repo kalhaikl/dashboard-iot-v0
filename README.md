@@ -30,3 +30,9 @@ Data yang dikirim masih **dummy** (random) menggunakan `random()` di kode Arduin
 ## 🔨Instalasi
 ```bash
 git clone https://github.com/kalhaikl/dashboard-iot-v0.git
+```
+
+## ⚙️Cara Kerja
+ESP32 akan menampung dan mengelola data yang didapatkan dari sensor(dummy), kemudian data akan dikirim ke database melalui level.php, temperature.php, dan humidity.php. Data yang ditampung pada database akan ditampilkan menggunakan fetch melalui sendData.php, lalu data akan dikirim ke index.php.
+
+
